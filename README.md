@@ -1,11 +1,12 @@
 <div align="center">
 
 
-## $\color{yellow}\text{ this shii gonna be a wip for a while..}$
+## $\color{yellow}\text{ idk what to do here}$ <br> 
 
 ![Bryan](https://64.media.tumblr.com/b25ad5b9652e99732fd9b3846a017303/887af585b8076b33-1d/s540x810/f5f70eb408959c958295da6e33226b9a326f486e.gifv)
 
-$\color{yellow}\text{Hii, so uhh you can call me Alex or whatever char's I cos the most on PT nowdays idm, ok?}$
+$\color{yellow}\text{Hii, so uhh you can call me Alex or}$ <br>
+$\color{yellow}\text{whatever char's I cos the most on PT idm, ok?}$
 $\color{yellow}\text{}$
 <details>
   <summary>$\color{yellow}\text{BYI}$</summary>
