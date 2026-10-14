@@ -28,3 +28,10 @@ $\color{yellow}\text{}$
       $\color{darkred}\text{- Winc*st shippers}$ <br>
   </details>
 </details>
+
+<details>
+  <summary>$\color{yellow}\text{My most used ponies}$</summary>
+<img width="350" height="300" alt="pony-town-Bryan H-_ fictkin, c+h freely-dance-4-blinking-padded-16x" src="https://github.com/user-attachments/assets/94882db5-efc0-46d7-8f99-9324726bd5de" />
+<img width="350" height="300" alt="pony-town-BRYAN _ fictkin offtab,c+h-dance-4-blinking-padded-16x" src="https://github.com/user-attachments/assets/08d4843e-1a2d-48ac-8468-e83c3435b9ac" />
+
+</details>
