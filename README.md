@@ -1,3 +1,6 @@
+<div align="center">
+
+
 ## $\color{yellow}\text{ this shii gonna be a wip for a while..}$
 
 ![Bryan](https://64.media.tumblr.com/b25ad5b9652e99732fd9b3846a017303/887af585b8076b33-1d/s540x810/f5f70eb408959c958295da6e33226b9a326f486e.gifv)
@@ -36,3 +39,4 @@ $\color{yellow}\text{}$
 <img width="270" height="250" alt="pony-town-Bryan H-_ fictkin, c+h freely-dance-4-blinking-padded-16x" src="https://github.com/user-attachments/assets/94882db5-efc0-46d7-8f99-9324726bd5de" />
 <img width="270" height="250" alt="pony-town-BRYAN _ fictkin offtab,c+h-dance-4-blinking-padded-16x" src="https://github.com/user-attachments/assets/08d4843e-1a2d-48ac-8468-e83c3435b9ac" /><br>
 </details>
+</div>
