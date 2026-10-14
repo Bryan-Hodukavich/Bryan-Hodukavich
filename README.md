@@ -12,9 +12,13 @@ $\color{yellow}\text{}$
   <summary>$\color{yellow}\text{BYI}$</summary>
     <details>
       <summary>$\color{yellow}\text{About Me}$</summary>
-      $\color{yellow}\text{- Im 18 years old. Minors under 15 plz DNI Im not comfortable talking to any1 younger then that}$ <br>
-      $\color{yellow}\text{- Im bad at setting boundaries and shii but im trying to work on it ok??}$ <br>
-      $\color{yellow}\text{- And plz tell me if I said somtin that make you uncomfortable I'll make sure I dont do it again..}$ 
+      $\color{yellow}\text{- Im 18 years old.}$<br>
+      $\color{yellow}\text{Minors under 15 plz DNI Im not comfortable}$<br>
+      $\color{yellow}\text{talking to any1 younger then that}$ <br>
+      $\color{yellow}\text{- Im bad at setting boundaries and }$<br>
+      $\color{yellow}\text{shii but im trying to work on it ok??}$ <br>
+      $\color{yellow}\text{- And plz tell me if I said somtin that make}$<br>
+      $\color{yellow}\text{you uncomfortable I'll make sure I dont do it again..}$ 
     </details>
     <details>
       <summary>$\color{#ca5a1b}\text{IWC}$</summary>
