@@ -17,6 +17,7 @@ $\color{yellow}\text{}$
       $\color{#ca5a1b}\text{- Hazbin Hotel and Helluva Boss}$ <br>
       $\color{#ca5a1b}\text{- Stranger Things fandom (im sorry, ok?)}$ <br>
       $\color{#ca5a1b}\text{- -16 or +20}$ <br>
+      $\color{#ca5a1b}\text{- Roblox fandoms}$ <br>
       $\color{#ca5a1b}\text{- Im prob gonna add more on here later..}$ <br>
     </details>
     <details>
