@@ -13,11 +13,11 @@ $\color{yellow}\text{}$
       $\color{yellow}\text{- And plz tell me if I said somtin that make you uncomfortable I'll make sure I dont do it again..}$ 
     </details>
     <details>
-      <summary>$\color{orange}\text{IWC}$</summary>
-      $\color{orange}\text{- Hazbin Hotel and Helluva Boss}$ <br>
-      $\color{orange}\text{- Stranger Things fandom (im sorry, ok?)}$ <br>
-      $\color{orange}\text{- -16 or +20}$ <br>
-      $\color{orange}\text{- Im prob gonna add more on here later..}$ <br>
+      <summary>$\color{#ca5a1b}\text{IWC}$</summary>
+      $\color{#ca5a1b}\text{- Hazbin Hotel and Helluva Boss}$ <br>
+      $\color{#ca5a1b}\text{- Stranger Things fandom (im sorry, ok?)}$ <br>
+      $\color{#ca5a1b}\text{- -16 or +20}$ <br>
+      $\color{#ca5a1b}\text{- Im prob gonna add more on here later..}$ <br>
     </details>
     <details>
       <summary>$\color{darkred}\text{DNI}$</summary>
