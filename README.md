@@ -36,6 +36,18 @@ $\color{yellow}\text{}$
       $\color{darkred}\text{- Pro/darkshippers}$ <br>
       $\color{darkred}\text{- Winc*st shippers}$ <br>
   </details>
+   <details>
+      <summary>$\color{yellow}\text{Ships}$</summary>
+      $\color{yellow}\text{All ships feel free to int unless}$ <br>
+      $\color{yellow}\text{mentioned on this list}$ <br>
+      $\color{darkred}\text{- Grace x Rocky}$ <br>
+      $\color{darkred}\text{- Aeon (iwec) sorry}$ <br>
+      $\color{darkred}\text{- Sam x Gabriel (SPN)}$ <br>
+      $\color{darkred}\text{- Winc*st (SPN)}$ <br>
+      $\color{darkred}\text{- Sam x Ruby (SPN)}$ <br>
+      $\color{darkred}\text{- Thor x Loki}$ <br>
+      $\color{darkred}\text{- Bear x Nikki (Obsession)}$ <br>
+  </details>
 </details>
 
 <details>
