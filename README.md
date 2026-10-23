@@ -57,4 +57,7 @@ $\color{yellow}\text{}$
 <img width="270" height="250" alt="pony-town-Bryan H-_ fictkin, c+h freely-dance-4-blinking-padded-16x" src="https://github.com/user-attachments/assets/94882db5-efc0-46d7-8f99-9324726bd5de" />
 <img width="270" height="250" alt="pony-town-BRYAN _ fictkin offtab,c+h-dance-4-blinking-padded-16x" src="https://github.com/user-attachments/assets/08d4843e-1a2d-48ac-8468-e83c3435b9ac" /><br>
 </details>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=96701d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
