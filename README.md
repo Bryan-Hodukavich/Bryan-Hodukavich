@@ -54,7 +54,7 @@ $\color{yellow}\text{}$
   <summary>$\color{yellow}\text{My most used ponies}$</summary>
   $\color{yellow}\text{Mostly use these two Bryan H. ponies}$<br>
   $\color{yellow}\text{or other Austin Abrams chars}$<br>
-<img width="248" height="256" alt="pony-town-Bryan in class_c+h freely-dance-4-blinking-padded-toy92-4x (1)" src="https://github.com/user-attachments/assets/943079f1-fda1-47e6-a3e5-e495425fd78a" />
+<img width="248" height="232" alt="pony-town-Bryan in class_c+h freely-dance-4-blinking-padded-4x" src="https://github.com/user-attachments/assets/d985956b-c25b-46dd-80a6-0bfc9bcc94e2" />
 <img width="248" height="232" alt="pony-town-Bryan_ Rat bf potential-dance-4-blinking-padded-4x" src="https://github.com/user-attachments/assets/8986ccd6-1d8b-48e3-8500-d085ee800d73" /> <br>
 </details>
 
