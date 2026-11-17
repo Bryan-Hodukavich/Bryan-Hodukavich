@@ -60,4 +60,10 @@ $\color{yellow}\text{}$
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=c98c2a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&redirect=true)
 
+$\color{#9B7641}\text{tes}$
+$\color{#A37F48}\text{ti}$
+$\color{#BC9D64}\text{ng }$
+$\color{#A37F48}\text{som}$
+$\color{#9B7641}\text{thin}$
+
 </div>
