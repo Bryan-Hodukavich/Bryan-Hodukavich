@@ -8,7 +8,7 @@
 
 $\color{#88612e}\text{Hii, so}$ $\color{#A37F48}\text{uhh}$ $\color{#BC9D64}\text{you can}$ $\color{#A37F48}\text{call me}$ $\color{#88612e}\text{Alex or}$
 <br>
-$\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D64}\text{cos the}$ $\color{#A37F48}\text{most on PT}$ $\color{#88612e}\text{idm, ok?}$
+$\color{#88612e}\text{whatever}$ $\color{#A37F48}\text{chars I}$ $\color{#BC9D64}\text{cos the}$ $\color{#A37F48}\text{most on PT}$ $\color{#88612e}\text{idm, ok?}$
 <br>
 <details>
   <summary>$\color{#88612e}\text{BYI}$</summary>
