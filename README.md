@@ -60,7 +60,7 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
 <img width="248" height="232" alt="pony-town-Bryan_ Rat bf potential-dance-4-blinking-padded-4x" src="https://github.com/user-attachments/assets/8986ccd6-1d8b-48e3-8500-d085ee800d73" /> <br>
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=c98c2a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=bc9d64&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&redirect=true)
 
 $\color{#88612e}\text{}$ $\color{#A37F48}\text{}$ $\color{#BC9D64}\text{}$ $\color{#A37F48}\text{}$ $\color{#88612e}\text{}$
 
