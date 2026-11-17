@@ -19,7 +19,7 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
       $\color{#88612e}\text{talking}$ $\color{#A37F48}\text{to}$ $\color{#BC9D64}\text{any1}$ $\color{#A37F48}\text{younger}$ $\color{#88612e}\text{then that}$ <br>
       $\color{#88612e}\text{- Im}$ $\color{#A37F48}\text{bad at}$ $\color{#BC9D64}\text{setting}$ $\color{#A37F48}\text{boundaries}$ $\color{#88612e}\text{and}$ <br>
       $\color{#88612e}\text{shii but}$ $\color{#A37F48}\text{im to}$ $\color{#BC9D64}\text{to work}$ $\color{#A37F48}\text{on it}$ $\color{#88612e}\text{ok??}$ <br>
-      $\color{#88612e}\text{- And plz}$ $\color{#A37F48}\text{tell me}$ $\color{#BC9D64}\text{if I}$ $\color{#A37F48}\text{said somtin}$ $\color{#88612e}\text{that make}$ <br>
+      $\color{#88612e}\text{- And plz}$ $\color{#A37F48}\text{tell me}$ $\color{#BC9D64}\text{if I said}$ $\color{#A37F48}\text{somtin}$ $\color{#88612e}\text{that make}$ <br>
       $\color{#88612e}\text{you uncomfortable}$ $\color{#A37F48}\text{I'll make}$ $\color{#BC9D64}\text{sure I}$ $\color{#A37F48}\text{don't do}$ $\color{#88612e}\text{it again..}$
     </details>
     <details>
