@@ -54,7 +54,7 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
 
 <details>
   <summary>$\color{#88612e}\text{My}$ $\color{#A37F48}\text{most}$ $\color{#BC9D64}\text{used}$ $\color{#A37F48}\text{ponies}$</summary>
-  $\color{#88612e}\text{Mostly use these two Bryan H. ponies}$ $\color{#A37F48}\text{use}$ $\color{#BC9D64}\text{these two}$ $\color{#A37F48}\text{Bryan}$ $\color{#88612e}\text{H. ponies}$ <br>
+  $\color{#88612e}\text{Mostly}$ $\color{#A37F48}\text{use}$ $\color{#BC9D64}\text{these two}$ $\color{#A37F48}\text{Bryan}$ $\color{#88612e}\text{H. ponies}$ <br>
   $\color{#88612e}\text{or}$ $\color{#A37F48}\text{other}$ $\color{#BC9D64}\text{Austin}$ $\color{#A37F48}\text{Abrams}$ $\color{#88612e}\text{chars}$ <br>
 <img width="248" height="232" alt="pony-town-Bryan in class_c+h freely-dance-4-blinking-padded-4x" src="https://github.com/user-attachments/assets/d985956b-c25b-46dd-80a6-0bfc9bcc94e2" />
 <img width="248" height="232" alt="pony-town-Bryan_ Rat bf potential-dance-4-blinking-padded-4x" src="https://github.com/user-attachments/assets/8986ccd6-1d8b-48e3-8500-d085ee800d73" /> <br>
