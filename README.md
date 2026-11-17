@@ -6,9 +6,10 @@
 
 ![Bryan](https://64.media.tumblr.com/b25ad5b9652e99732fd9b3846a017303/887af585b8076b33-1d/s540x810/f5f70eb408959c958295da6e33226b9a326f486e.gifv)
 
-$\color{yellow}\text{Hii, so uhh you can call me Alex or}$ <br>
-$\color{yellow}\text{whatever char's I cos the most on PT idm, ok?}$
-$\color{yellow}\text{}$
+$\color{#9B7641}\text{Hii, so}$ $\color{#A37F48}\text{uhh}$ $\color{#BC9D64}\text{you can}$ $\color{#A37F48}\text{call me}$ $\color{#9B7641}\text{Alex or}$
+<br>
+$\color{#9B7641}\text{whatever char's}$ $\color{#A37F48}\text{I cos}$ $\color{#BC9D64}\text{the most}$ $\color{#A37F48}\text{on PT}$ $\color{#9B7641}\text{idm, ok?}$
+<br>
 <details>
   <summary>$\color{yellow}\text{BYI}$</summary>
     <details>
@@ -61,10 +62,6 @@ $\color{yellow}\text{}$
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=c98c2a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&redirect=true)
 
-$\color{#9B7641}\text{}$
-$\color{#A37F48}\text{}$
-$\color{#BC9D64}\text{}$
-$\color{#A37F48}\text{}$
-$\color{#9B7641}\text{}$
+$\color{#9B7641}\text{}$ $\color{#A37F48}\text{}$ $\color{#BC9D64}\text{}$ $\color{#A37F48}\text{}$ $\color{#9B7641}\text{}$
 
 </div>
