@@ -39,23 +39,23 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
       $\color{#b06330}\text{- Winc*st shippers}$ <br>
   </details>
    <details>
-      <summary>$\color{yellow}\text{Ships}$</summary>
-      $\color{yellow}\text{All ships feel free to int unless}$ <br>
-      $\color{yellow}\text{mentioned on this list}$ <br>
-      $\color{darkred}\text{- Grace x Rocky}$ <br>
-      $\color{darkred}\text{- Aeon (iwec) sorry}$ <br>
-      $\color{darkred}\text{- Sam x Gabriel (SPN)}$ <br>
-      $\color{darkred}\text{- Winc*st (SPN)}$ <br>
-      $\color{darkred}\text{- Sam x Ruby (SPN)}$ <br>
-      $\color{darkred}\text{- Thor x Loki}$ <br>
-      $\color{darkred}\text{- Bear x Nikki (Obsession)}$ <br>
+      <summary>$\color{88612e}\text{Ships}$</summary>
+      $\color{#88612e}\text{All ships}$ $\color{#A37F48}\text{feel}$ $\color{#BC9D64}\text{free to}$ $\color{#A37F48}\text{int}$ $\color{#88612e}\text{unless}$ <br>
+      $\color{#88612e}\text{mentioned}$ $\color{#A37F48}\text{on}$ $\color{#BC9D64}\text{this}$ $\color{#A37F48}\text{list}$ <br>
+      $\color{#b06330}\text{- Grace x Rocky}$ <br>
+      $\color{#b06330}\text{- Aeon (iwec) sorry}$ <br>
+      $\color{#b06330}\text{- Sam x Gabriel (SPN)}$ <br>
+      $\color{#b06330}\text{- Winc*st (SPN)}$ <br>
+      $\color{#b06330}\text{- Sam x Ruby (SPN)}$ <br>
+      $\color{#b06330}\text{- Thor x Loki}$ <br>
+      $\color{#b06330}\text{- Bear x Nikki (Obsession)}$ <br>
   </details>
 </details>
 
 <details>
-  <summary>$\color{yellow}\text{My most used ponies}$</summary>
-  $\color{yellow}\text{Mostly use these two Bryan H. ponies}$<br>
-  $\color{yellow}\text{or other Austin Abrams chars}$<br>
+  <summary>$\color{#88612e}\text{My}$ $\color{#A37F48}\text{most}$ $\color{#BC9D64}\text{used}$ $\color{#A37F48}\text{ponies}$</summary>
+  $\color{#88612e}\text{Mostly use these two Bryan H. ponies}$ $\color{#A37F48}\text{use}$ $\color{#BC9D64}\text{these two}$ $\color{#A37F48}\text{Bryan}$ $\color{#88612e}\text{H. ponies}$ <br>
+  $\color{#88612e}\text{or}$ $\color{#A37F48}\text{other}$ $\color{#BC9D64}\text{Austin}$ $\color{#A37F48}\text{Abrams}$ $\color{#88612e}\text{chars}$ <br>
 <img width="248" height="232" alt="pony-town-Bryan in class_c+h freely-dance-4-blinking-padded-4x" src="https://github.com/user-attachments/assets/d985956b-c25b-46dd-80a6-0bfc9bcc94e2" />
 <img width="248" height="232" alt="pony-town-Bryan_ Rat bf potential-dance-4-blinking-padded-4x" src="https://github.com/user-attachments/assets/8986ccd6-1d8b-48e3-8500-d085ee800d73" /> <br>
 </details>
