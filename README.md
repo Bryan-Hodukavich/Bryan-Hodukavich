@@ -20,7 +20,7 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
       $\color{#88612e}\text{- Im}$ $\color{#A37F48}\text{bad at}$ $\color{#BC9D64}\text{setting}$ $\color{#A37F48}\text{boundaries}$ $\color{#88612e}\text{and}$ <br>
       $\color{#88612e}\text{shii but}$ $\color{#A37F48}\text{im to}$ $\color{#BC9D64}\text{to work}$ $\color{#A37F48}\text{on it}$ $\color{#88612e}\text{ok??}$ <br>
       $\color{#88612e}\text{- And plz}$ $\color{#A37F48}\text{tell me}$ $\color{#BC9D64}\text{if I said}$ $\color{#A37F48}\text{somtin}$ $\color{#88612e}\text{that make}$ <br>
-      $\color{#88612e}\text{you uncomfortable}$ $\color{#A37F48}\text{I'll make}$ $\color{#BC9D64}\text{sure I}$ $\color{#A37F48}\text{don't do}$ $\color{#88612e}\text{it again..}$
+      $\color{#88612e}\text{you uncomfortable}$ $\color{#A37F48}\text{I'll}$ $\color{#BC9D64}\text{make sure I}$ $\color{#A37F48}\text{don't do}$ $\color{#88612e}\text{it again..}$
     </details>
     <details>
       <summary>$\color{#A37F48}\text{IWC}$</summary>
