@@ -11,19 +11,19 @@ $\color{#88612e}\text{Hii, so}$ $\color{#A37F48}\text{uhh}$ $\color{#BC9D64}\tex
 $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D64}\text{cos the}$ $\color{#A37F48}\text{most on PT}$ $\color{#88612e}\text{idm, ok?}$
 <br>
 <details>
-  <summary>$\color{yellow}\text{BYI}$</summary>
+  <summary>$\color{#88612e}\text{BYI}$</summary>
     <details>
-      <summary>$\color{yellow}\text{About Me}$</summary>
-      $\color{yellow}\text{- Im 18 years old.}$<br>
-      $\color{yellow}\text{Minors under 15 plz DNI Im not comfortable}$<br>
-      $\color{yellow}\text{talking to any1 younger then that}$ <br>
-      $\color{yellow}\text{- Im bad at setting boundaries and }$<br>
-      $\color{yellow}\text{shii but im trying to work on it ok??}$ <br>
-      $\color{yellow}\text{- And plz tell me if I said somtin that make}$<br>
-      $\color{yellow}\text{you uncomfortable I'll make sure I dont do it again..}$ 
+      <summary>$\color{#88612e}\text{About}$ $\color{#A37F48}\text{Me}$</summary>
+      $\color{#88612e}\text{-}$ $\color{#A37F48}\text{Im}$ $\color{#BC9D64}\text{18}$ $\color{#A37F48}\text{years}$ $\color{#88612e}\text{old}$ <br>
+      $\color{#88612e}\text{- Minors}$ $\color{#A37F48}\text{under 15}$ $\color{#BC9D64}\text{plz DNI}$ $\color{#A37F48}\text{Im not}$      $\color{#88612e}\text{comfortable}$ <br>
+      $\color{#88612e}\text{talking}$ $\color{#A37F48}\text{to}$ $\color{#BC9D64}\text{any1}$ $\color{#A37F48}\text{younger}$ $\color{#88612e}\text{then that}$ <br>
+      $\color{#88612e}\text{- Im}$ $\color{#A37F48}\text{bad at}$ $\color{#BC9D64}\text{setting}$ $\color{#A37F48}\text{boundaries}$ $\color{#88612e}\text{and}$ <br>
+      $\color{#88612e}\text{shii but}$ $\color{#A37F48}\text{im to}$ $\color{#BC9D64}\text{to work}$ $\color{#A37F48}\text{on it}$ $\color{#88612e}\text{ok??}$ <br>
+      $\color{#88612e}\text{- And plz tell me if I said somtin that make}$ $\color{#A37F48}\text{tell me}$ $\color{#BC9D64}\text{if I}$ $\color{#A37F48}\text{said somtin}$ $\color{#88612e}\text{that make}$ <br>
+      $\color{#88612e}\text{you uncomfortable I'll make sure I dont do it again..}$ $\color{#A37F48}\text{I'll make}$ $\color{#BC9D64}\text{sure I}$ $\color{#A37F48}\text{don't do}$ $\color{#88612e}\text{it again..}$
     </details>
     <details>
-      <summary>$\color{#ca5a1b}\text{IWC}$</summary>
+      <summary>$\color{#A37F48}\text{IWC}$</summary>
       $\color{#ca5a1b}\text{- Hazbin Hotel and Helluva Boss}$ <br>
       $\color{#ca5a1b}\text{- Stranger Things fandom (im sorry, ok?)}$ <br>
       $\color{#ca5a1b}\text{- -16 or +20}$ <br>
@@ -31,7 +31,7 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
       $\color{#ca5a1b}\text{- Im prob gonna add more on here later..}$ <br>
     </details>
     <details>
-      <summary>$\color{darkred}\text{DNI}$</summary>
+      <summary>$\color{#BC9D64}\text{DNI}$</summary>
       $\color{darkred}\text{- Basic DNI}$ <br>
       $\color{darkred}\text{- Homophobes}$ <br>
       $\color{darkred}\text{- Racists}$ <br>
