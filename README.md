@@ -27,8 +27,8 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
       $\color{#88612e}\text{- Hazbin}$ $\color{#A37F48}\text{Hotel}$ $\color{#BC9D64}\text{and}$ $\color{#A37F48}\text{Helluva}$ $\color{#88612e}\text{Boss}$ <br>
       $\color{#88612e}\text{- Stranger}$ $\color{#A37F48}\text{Things}$ $\color{#BC9D64}\text{fandom (I'm}$ $\color{#A37F48}\text{sorry,}$ $\color{#88612e}\text{ok?)}$ <br>
       $\color{#88612e}\text{- }$ $\color{#A37F48}\text{- 16}$ $\color{#BC9D64}\text{or}$ $\color{#A37F48}\text{+}$ $\color{#88612e}\text{20}$ <br>
-      $\color{#ca5a1b}\text{- Roblox fandoms}$ $\color{#A37F48}\text{Roblox}$ $\color{#BC9D64}\text{fandoms}$ <br>
-      $\color{#ca5a1b}\text{- Im prob gonna add more on here later..}$ $\color{#A37F48}\text{prob}$ $\color{#BC9D64}\text{gonna add}$ $\color{#A37F48}\text{more on}$ $\color{#88612e}\text{here later..}$ <br>
+      $\color{#88612e}\text{-}$ $\color{#A37F48}\text{Roblox}$ $\color{#BC9D64}\text{fandoms}$ <br>
+      $\color{#88612e}\text{- Im}$ $\color{#A37F48}\text{prob}$ $\color{#BC9D64}\text{gonna add}$ $\color{#A37F48}\text{more on}$ $\color{#88612e}\text{here later..}$ <br>
     </details>
     <details>
       <summary>$\color{#88612e}\text{DNI}$</summary>
