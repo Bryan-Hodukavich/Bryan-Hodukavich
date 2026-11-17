@@ -1,14 +1,14 @@
 <div align="center">
 
 
-## $\color{#88612e}\text{idk}$ $\color{#A37F48}\text{what}$ $\color{#BC9D64}\text{to}$ $\color{#A37F48}\text{do}$ $\color{#79511D}\text{here}$
+## $\color{#88612e}\text{idk}$ $\color{#A37F48}\text{what}$ $\color{#BC9D64}\text{to}$ $\color{#A37F48}\text{do}$ $\color{#88612e}\text{here}$
 <br> 
 
 ![Bryan](https://64.media.tumblr.com/b25ad5b9652e99732fd9b3846a017303/887af585b8076b33-1d/s540x810/f5f70eb408959c958295da6e33226b9a326f486e.gifv)
 
-$\color{#79511D}\text{Hii, so}$ $\color{#A37F48}\text{uhh}$ $\color{#BC9D64}\text{you can}$ $\color{#A37F48}\text{call me}$ $\color{#79511D}\text{Alex or}$
+$\color{#88612e}\text{Hii, so}$ $\color{#A37F48}\text{uhh}$ $\color{#BC9D64}\text{you can}$ $\color{#A37F48}\text{call me}$ $\color{#88612e}\text{Alex or}$
 <br>
-$\color{#79511D}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D64}\text{cos the}$ $\color{#A37F48}\text{most on PT}$ $\color{#79511D}\text{idm, ok?}$
+$\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D64}\text{cos the}$ $\color{#A37F48}\text{most on PT}$ $\color{#88612e}\text{idm, ok?}$
 <br>
 <details>
   <summary>$\color{yellow}\text{BYI}$</summary>
@@ -62,6 +62,6 @@ $\color{#79511D}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=c98c2a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&redirect=true)
 
-$\color{#79511D}\text{}$ $\color{#A37F48}\text{}$ $\color{#BC9D64}\text{}$ $\color{#A37F48}\text{}$ $\color{#79511D}\text{}$
+$\color{#88612e}\text{}$ $\color{#A37F48}\text{}$ $\color{#BC9D64}\text{}$ $\color{#A37F48}\text{}$ $\color{#88612e}\text{}$
 
 </div>
