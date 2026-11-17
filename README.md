@@ -39,7 +39,7 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
       $\color{#b06330}\text{- Winc*st shippers}$ <br>
   </details>
    <details>
-      <summary>$\color{88612e}\text{Ships}$</summary>
+      <summary>$\color{#88612e}\text{Ships}$</summary>
       $\color{#88612e}\text{All ships}$ $\color{#A37F48}\text{feel}$ $\color{#BC9D64}\text{free to}$ $\color{#A37F48}\text{int}$ $\color{#88612e}\text{unless}$ <br>
       $\color{#88612e}\text{mentioned}$ $\color{#A37F48}\text{on}$ $\color{#BC9D64}\text{this}$ $\color{#A37F48}\text{list}$ <br>
       $\color{#b06330}\text{- Grace x Rocky}$ <br>
