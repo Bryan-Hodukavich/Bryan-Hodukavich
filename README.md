@@ -32,11 +32,11 @@ $\color{#88612e}\text{whatever char's}$ $\color{#A37F48}\text{I}$ $\color{#BC9D6
     </details>
     <details>
       <summary>$\color{#88612e}\text{DNI}$</summary>
-      $\color{darkred}\text{- Basic DNI}$ <br>
-      $\color{darkred}\text{- Homophobes}$ <br>
-      $\color{darkred}\text{- Racists}$ <br>
-      $\color{darkred}\text{- Pro/darkshippers}$ <br>
-      $\color{darkred}\text{- Winc*st shippers}$ <br>
+      $\color{#ca6135}\text{- Basic DNI}$ <br>
+      $\color{#ca6135}\text{- Homophobes}$ <br>
+      $\color{#ca6135}\text{- Racists}$ <br>
+      $\color{#ca6135}\text{- Pro/darkshippers}$ <br>
+      $\color{#ca6135}\text{- Winc*st shippers}$ <br>
   </details>
    <details>
       <summary>$\color{yellow}\text{Ships}$</summary>
