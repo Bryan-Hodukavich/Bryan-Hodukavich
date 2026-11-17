@@ -1,7 +1,12 @@
 <div align="center">
 
 
-## $\color{yellow}\text{ idk what to do here}$ <br> 
+## $\color{#9B7641}\text{idk }$
+## $\color{#A37F48}\text{what }$
+## $\color{#BC9D64}\text{to }$
+## $\color{#A37F48}\text{do }$
+## $\color{#9B7641}\text{here}$
+<br> 
 
 ![Bryan](https://64.media.tumblr.com/b25ad5b9652e99732fd9b3846a017303/887af585b8076b33-1d/s540x810/f5f70eb408959c958295da6e33226b9a326f486e.gifv)
 
@@ -60,10 +65,10 @@ $\color{yellow}\text{}$
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=c98c2a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ingridhavs&redirect=true)
 
-$\color{#9B7641}\text{tes}$
-$\color{#A37F48}\text{ti}$
-$\color{#BC9D64}\text{ng }$
-$\color{#A37F48}\text{som}$
-$\color{#9B7641}\text{thin}$
+$\color{#9B7641}\text{}$
+$\color{#A37F48}\text{}$
+$\color{#BC9D64}\text{}$
+$\color{#A37F48}\text{}$
+$\color{#9B7641}\text{}$
 
 </div>
